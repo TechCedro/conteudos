@@ -11,7 +11,7 @@ __Gestão de Produto__:   [Post](https://inovacaosebraeminas.com.br/o-que-e-gest
 
 ## Materiais
 ## Canais no Youtube
-## Postcast
+## Podcast
 ## Tutoriais
 ## Blogs
 ## Profissionais para acompanhar
