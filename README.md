@@ -3,7 +3,7 @@ Respositório de conteúdos para estudos das áreas de técnologia.
 - Cursos (pagos ou gratuitos)
 - Materiais
 - Canais no Youtube
-- Postcast
+- Podcast
 - Tutoriais
 - Blogs
 - Profissionais para acompanhar
