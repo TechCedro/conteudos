@@ -41,7 +41,7 @@
 - [WebApp Completo com VueJS, Vuetify e NodeJS - High Tech](https://www.youtube.com/playlist?list=PLKvsMn7xWutaglJ6UutUYD9Jkud144nu7)
 
 # Canais no Youtube
-# Postcast
+# Podcast
 - [DevsNaEstrada](https://devnaestrada.com.br/)
 - [GuildaTech - Quem Programa](https://guildatech.com/podcast)
 - [Hispter.Tech](https://hipsters.tech/)
