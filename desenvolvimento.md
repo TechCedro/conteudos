@@ -57,4 +57,5 @@
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
 - [William Justen](https://www.youtube.com/c/WillianJustenCursos)
 - [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA)
-- 
+- [Patrick Monteiro](https://www.youtube.com/channel/UCA2Pi4938l8S5LFlLpXh9Pw)
+- [Tárcio Zemel (DPw)](https://www.youtube.com/c/dpwoficial)
