@@ -12,6 +12,14 @@ __Gestão de Produto__:   [Post](https://inovacaosebraeminas.com.br/o-que-e-gest
 ## Materiais
 ## Canais no Youtube
 ## Podcast
+
+- [MULHERES DE PRODUTO](https://anchor.fm/mulheres-de-produto)
+- [AGILE GIRLS](https://open.spotify.com/show/51ZqIkkMabXMF93YUDQoLm)
+- [PAPO DE PRODUTO](https://open.spotify.com/show/6deUaOxztKmZZFE97FzhFg?si=fxRylWM8Qw-tDS0ufjwq1Q)
+
 ## Tutoriais
 ## Blogs
+
+- [VIDA DE PRODUTO](https://vidadeproduto.com.br/)
+
 ## Profissionais para acompanhar
